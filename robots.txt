@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ardouloue.github.io/sitemap
+Sitemap: https://ardouloue.github.io/app/sitemap
+Sitemap: https://ardouloue.github.io/assets/sitemap
+Sitemap: https://ardouloue.github.io/css/sitemap
+Sitemap: https://ardouloue.github.io/includes/sitemap
+Sitemap: https://ardouloue.github.io/item/sitemap
+Sitemap: https://ardouloue.github.io/src/sitemap
